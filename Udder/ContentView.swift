@@ -17,6 +17,16 @@ struct ContentView: View {
             sdfksdfosdfk oiksdf
             
             sdokfdspofksdopfk
+            sad
+            class da
+            deinit {
+                asd
+                asd
+                asd
+                
+            }: <#super class#> {
+                <#code#>
+            }
         }
         
         
